@@ -1,0 +1,9 @@
+h4{
+	font-style: italic;
+	font-weight: normal;
+}
+div img{
+	width: 150px;
+	border-radius: 15px;
+	border: 4px darkblue solid;
+}
